@@ -64,6 +64,7 @@ shinyUI(fluidPage(
                     It is the product of SPI(t) and CPI."),
                   p(strong("EAC(t)" ), "Is the Estimation At Completion Time, i.e. the estimated duration of the project."),
                   br(),
+                  p(strong("References")),
                   p("Lipke, Walt (2003). Schedule is Different. The Measurable News, March & Summer 2003")
                   )
         )
