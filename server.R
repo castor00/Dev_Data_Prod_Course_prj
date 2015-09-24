@@ -1,7 +1,7 @@
 library(shiny)
 require(xlsx)
 
-data <- read.xlsx2("data/EV_input.xlsx",1, header = TRUE, colClasses= c("numeric","numeric","numeric","numeric"))
+data <- read.xlsx2("Data/EV_input.xlsx",1, header = TRUE, colClasses= c("numeric","numeric","numeric","numeric"))
 data$SV <- data$EV - data$PV
 data$SV <- data$EV - data$AC
 data$SV <- data$EV - data$PV
