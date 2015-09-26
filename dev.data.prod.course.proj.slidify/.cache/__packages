@@ -1,7 +1,9 @@
 base
-slidify
-knitr
+devtools
 shiny
+shinyapps
+knitr
+slidify
 rJava
 xlsxjars
 xlsx

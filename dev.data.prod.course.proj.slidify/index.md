@@ -20,7 +20,10 @@ The application does exactly that. It uses a sample project and the users input 
 
 My intetion is to extent the app so that the user can enter his project. 
 
+The link to the application is: https://castor.shinyapps.io/Dev_Data_Prod_Course_prj
+
 --- 
+
 ## Input
 
 The application uses the planned value, the actual value and the earned value of the project. This data can easilly be extracted from any project scheduling software. (Here I use a sample project)
@@ -52,6 +55,7 @@ The application calculates the basic indexes that show how the project is implem
 ---
 
 ## Example
+
 When the project is in it's 6th day and the estimation method is PF = CSI(t). ie:
 
 
